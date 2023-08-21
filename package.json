@@ -1,0 +1,19 @@
+{
+  "name": "wikiapi",
+  "version": "1.0.0",
+  "description": "my very first RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pan-be/wikiAPI.git"
+  },
+  "author": "Pan.Be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pan-be/wikiAPI/issues"
+  },
+  "homepage": "https://github.com/Pan-be/wikiAPI#readme"
+}
